@@ -20,25 +20,7 @@ All the control was made with an ATMEGA 164p.
 ## Software
 The dashboard was developed in LabVIEW.The user can see all the principal components of a dashboard car, the microcontroller communicate with the interface using Serial Port.
 
-
-### Main Page
-In center side the three variables are shown in a real time graph and in the right side current values and average values are displayed.
 <p align="center">
-<img src="https://github.com/JennyCGT/Project1/blob/master/images/Capture.JPG" height="400">
+<img src="https://github.com/JennyCGT/Simulate-car-control/blob/master/dash.JPG" height="400">
 </p>  
 
-### Temperature Page, Humidity and Air Quality Page  
-
-In center side the variables are shown in a real time big graph, in the right side current value and average value are displayed, also there is a treeview with date,time and data. This information could be exported to a CVS file called output.  
-<p align="center">
-<img src="https://github.com/JennyCGT/Project1/blob/master/images/Capture1.JPG" height="350">
-</p>  
-<p align="center">
-<img src="https://github.com/JennyCGT/Project1/blob/master/images/Captureh.JPG" height="350">
-</p>  
-<p align="center">
-<img src="https://github.com/JennyCGT/Project1/blob/master/images/Capturea.JPG" height="350">
-</p>  
-
-## MQTT Test
-The file prueba_mqtt.py is a simple program to test the communication with the broker and the correct subscription to the diferent topics
