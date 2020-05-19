@@ -17,6 +17,13 @@ All the control was made with an ATMEGA 164p.
 <img src="https://http2.mlstatic.com/wolfelectronics-atmega164p-D_NQ_NP_672622-MEC27104024648_032018-F.webp" height="200">
 </p>
 
+For recreate the conditions of a real car, a PCB designed was developed for made a scale car the circuit with the principal components is showed:
+
+<p align="center">
+<img src="https://github.com/JennyCGT/Simulate-car-control/blob/master/circuito_001.jpg" height="400">
+</p>
+
+
 ## Software
 The dashboard was developed in LabVIEW.The user can see all the principal components of a dashboard car, the microcontroller communicate with the interface using Serial Port.
 
